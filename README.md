@@ -3,7 +3,7 @@
 ## I am a computer engineering student who enjoys self improvement and is motivated to make progress by taking on new challenges. I have a strong interest in backend development. I am currently learning C++, Java and Python.
 
 ## Education
-- Currently pursuing a Bachelor's degree in Computer Engineering at Bahcesehiir University
+- Currently pursuing a Bachelor's degree in Computer Engineering at Bahcesehir University
 
 ## Skills
 - Programming Languages: C++, Python
