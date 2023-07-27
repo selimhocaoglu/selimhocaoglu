@@ -6,7 +6,7 @@
 - Currently pursuing a Bachelor's degree in Computer Engineering at Bahcesehir University
 
 ## Skills
-- Programming Languages: C++, Python
+- Programming Languages: Java, C++, Python
 
 
 <!--
